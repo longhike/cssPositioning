@@ -18,7 +18,7 @@
     position: relative;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 16px;
-    margin-left: 200px;
+    margin-left: 175px;
     margin-right: 100px;
     overflow: scroll;
 }
@@ -30,7 +30,7 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 25px;
     height: 200px;
-    margin-left: 200px;
+    margin-left: 175px;
     margin-right: 100px;
     margin-top: 20px;
     margin-bottom: 20px;
@@ -39,7 +39,7 @@
 #header {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 50px;
-    margin-left: 400px;
+    margin-left: 350px;
 }
 
 #positionAbsolute {
@@ -51,6 +51,6 @@
     height: 150px;
     width: 300px;
     margin-top: 20px;
-    left: 71.5%;
+    left: 58%;
 
 }
