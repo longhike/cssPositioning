@@ -15,9 +15,10 @@
 }
 
 .para {
+    position: relative;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 16px;
-    margin-left: 100px;
+    margin-left: 200px;
     margin-right: 100px;
     overflow: scroll;
 }
@@ -29,7 +30,7 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 25px;
     height: 200px;
-    margin-left: 100px;
+    margin-left: 200px;
     margin-right: 100px;
     margin-top: 20px;
     margin-bottom: 20px;
@@ -38,18 +39,18 @@
 #header {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 50px;
-    margin-left: 100px;
+    margin-left: 400px;
 }
 
 #positionAbsolute {
     background: #999;
+    position: absolute;
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 25px;
     height: 150px;
     width: 300px;
     margin-top: 20px;
-    position: absolute;
     left: 71.5%;
 
 }
