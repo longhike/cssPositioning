@@ -12,7 +12,6 @@
 .mainArticle {
     z-index:1;
     overflow: scroll;
-    border: 1px solid;
 }
 
 .para {
