@@ -11,7 +11,7 @@
 
 .mainArticle {
     z-index:1;
-    overflow: scroll;
+    /* overflow: scroll; */
 }
 
 .para {
