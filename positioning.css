@@ -11,7 +11,6 @@
 
 .mainArticle {
     z-index:1;
-    /* overflow: scroll; */
 }
 
 .para {
@@ -20,7 +19,6 @@
     font-size: 16px;
     margin-left: 350px;
     margin-right: 200px;
-    /* overflow: scroll; */
 }
 
 .boxSet {
