@@ -18,9 +18,9 @@
     position: relative;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 16px;
-    margin-left: 175px;
-    margin-right: 100px;
-    overflow: scroll;
+    margin-left: 350px;
+    margin-right: 200px;
+    /* overflow: scroll; */
 }
 
 .boxSet {
@@ -30,8 +30,8 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 25px;
     height: 200px;
-    margin-left: 175px;
-    margin-right: 100px;
+    margin-left: 350px;
+    margin-right: 200px;
     margin-top: 20px;
     margin-bottom: 20px;
 }
